@@ -15,7 +15,7 @@ SRC_URI = "git://git@github.com/cu-ecen-aeld/assignments-3-and-later-joshheyse.g
            file://ldd-aesd-char"
 
 PV = "1.0+git${SRCPV}"
-SRCREV = "d24c0ca39ff6f01738577f7f32bc75d287eb0ed2"
+SRCREV = "67db054ac2ec7f205afa6990a7ae41eccc7700ff"
 
 S = "${WORKDIR}/git/aesd-char-driver"
 
